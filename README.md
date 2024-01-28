@@ -1,6 +1,16 @@
 <!-- # Hi there , I'am **Harsh Anand Singh** -->
 <h1 align="center">Hi 👋, I'm Harsh Anand Singh! :stars:</h1>
 
+<style>
+  table {
+    border-collapse: collapse;
+  }
+
+  table img {
+    border: none;
+  }
+</style>
+
 <table align="center">
   <tr>
     <td><a href="https://www.linkedin.com/in/harsh-anand-singh-66a113210/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></td>
