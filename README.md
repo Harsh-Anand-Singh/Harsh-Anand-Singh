@@ -1,23 +1,14 @@
 <!-- # Hi there , I'am **Harsh Anand Singh** -->
 <h1 align="center">Hi 👋, I'm Harsh Anand Singh! :stars:</h1>
 
-<style>
-  table {
-    border-collapse: collapse;
-  }
 
-  table img {
-    border: none;
-  }
-</style>
-
-<table align="center">
+<table align="center" style="border-collapse: collapse;">
   <tr>
-    <td><a href="https://www.linkedin.com/in/harsh-anand-singh-66a113210/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></td>
-    <td><a href="https://stackoverflow.com/users/23025053/harsh-anand-singh/"><img src="https://img.shields.io/badge/stackoverflow-%23FF5722.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" /></a></td>
-    <td><a href="https://www.instagram.com/harsh_786_anand/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a></td>
-    <td><a href="mailto:harsh786anand@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></td>
-    <td><a href="https://leetcode.com/harsh786anand/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a></td>
+    <td style="border: none;"><a href="https://www.linkedin.com/in/harsh-anand-singh-66a113210/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></td>
+    <td style="border: none;"><a href="https://stackoverflow.com/users/23025053/harsh-anand-singh/"><img src="https://img.shields.io/badge/stackoverflow-%23FF5722.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" /></a></td>
+    <td style="border: none;"><a href="https://www.instagram.com/harsh_786_anand/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a></td>
+    <td style="border: none;"><a href="mailto:harsh786anand@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></td>
+    <td style="border: none;"><a href="https://leetcode.com/harsh786anand/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a></td>
   </tr>
 </table>
 
