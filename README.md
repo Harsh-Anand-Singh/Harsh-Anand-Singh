@@ -30,7 +30,7 @@
 ![C++](https://img.shields.io/badge/-C++-%23CC6699?style=flat-square&logo=cplusplus&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=d1b01f)
 ![Go](https://img.shields.io/badge/-Go-0891b2?style=flat-square&logo=go&logoColor=ffffff)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=javascript&logoColor=000000&color=d1b01f)
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=ffffff)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-16a34a?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
