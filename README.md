@@ -12,15 +12,15 @@
   </tr>
 </table>
 
-<p align="center"> :octocat:<a href="https://drive.google.com/file/d/1j4wrBB9w6WfKr9B-Si3xJVYkALzs9nfJ/view?usp=sharing">Resume</a>:octocat: </p>
+<p align="center"> :octocat:<a href="https://drive.google.com/file/d/1j4wrBB9w6WfKr9B-Si3xJVYkALzs9nfJ/view">Resume</a>:octocat: </p>
 
 ![ViewCount](https://views.whatilearened.today/views/github/Harsh-Anand-Singh/Harsh-Anand-Singh.svg?cache=remove)
 
 ## About Me
 - Hey there! :smile: I'm a Harsh Anand Singh. A `Full Stack Developer` 🚀 from India. 
 - I'm currently an undergraduate pursuing my bachelor's from `IIT (ISM) Dhanbad`.
-<!-- - I am a passionate programmer competing across different competitive programming platforms.  -->
-- I have a keen interest in `Web Development, FinTech, DevOps, and Cloud computing`. 
+- I am a passionate programmer competing across different competitive programming platforms.
+- I am keenly interested in `Web Development, FinTech, DevOps, and Cloud computing`. 
 - I love exploring evolving technologies and constantly strive to improve my technical competency.
 - I am a very curious person and always try to find opportunities. 
 - I'm always looking to work with people who are interested in creating and working on cool, interesting, and meaningful projects!
@@ -30,6 +30,7 @@
 ![C++](https://img.shields.io/badge/-C++-%23CC6699?style=flat-square&logo=cplusplus&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=d1b01f)
 ![Go](https://img.shields.io/badge/-Go-0891b2?style=flat-square&logo=go&logoColor=ffffff)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=ffffff)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-16a34a?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -37,8 +38,7 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=ffffff)
 ![Nextjs](https://img.shields.io/badge/-Next.Js-black?style=flat-square&logo=next.js&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-gray?style=flat-square&logo=typescript)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Nginx](https://img.shields.io/badge/-Nginx-16a34a?style=flat-square&logo=nginx)
+
 
 
 ✨ Quick Facts
